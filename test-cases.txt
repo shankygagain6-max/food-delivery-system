@@ -82,3 +82,5 @@ Check status
 Expected Result:
 
 Order status displayed
+Go to orders1
+Check status2
