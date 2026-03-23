@@ -1,0 +1,92 @@
+User Story 1:
+
+As a user, I want to view all restaurants so that I can choose where to order.
+
+🟢 User Story 2:
+
+As a user, I want to search restaurants so that I can find them quickly.
+
+🟢 User Story 3:
+
+As a user, I want to filter restaurants by rating/location so that I get better options.
+
+🟢 User Story 4:
+
+As an admin, I want to add restaurants so that they appear in the system.
+
+🟢 User Story 5:
+
+As an admin, I want to update restaurant details so that information is correct.
+
+✅ 📌 EPIC 2: Food Browsing
+🟢 User Story 6:
+
+As a user, I want to view menu items so that I can choose food.
+
+🟢 User Story 7:
+
+As a user, I want to see price and description so that I can decide.
+
+🟢 User Story 8:
+
+As a user, I want to view food images so that I can understand the item.
+
+✅ 📌 EPIC 3: Cart Management
+🟢 User Story 9:
+
+As a user, I want to add items to cart so that I can order later.
+
+🟢 User Story 10:
+
+As a user, I want to remove items from cart so that I can update my order.
+
+🟢 User Story 11:
+
+As a user, I want to update quantity so that I can order correct amount.
+
+🟢 User Story 12:
+
+As a user, I want to view total price so that I know the bill amount.
+
+✅ 📌 EPIC 4: Order Management
+🟢 User Story 13:
+
+As a user, I want to place order so that I can receive food.
+
+🟢 User Story 14:
+
+As a user, I want to track order so that I know delivery status.
+
+🟢 User Story 15:
+
+As a user, I want to cancel order so that I can stop wrong orders.
+
+🟢 User Story 16:
+
+As an admin, I want to update order status so that users get updates.
+
+✅ 📌 EPIC 5: Payment System
+🟢 User Story 17:
+
+As a user, I want to choose payment method so that I can pay easily.
+
+🟢 User Story 18:
+
+As a user, I want to pay online so that order is confirmed.
+
+🟢 User Story 19:
+
+As a user, I want to see payment confirmation so that I know payment is successful.
+
+✅ 📌 EPIC 6: User Management
+🟢 User Story 20:
+
+As a user, I want to register so that I can use the system.
+
+🟢 User Story 21:
+
+As a user, I want to login so that I can access my account.
+
+🟢 User Story 22:
+
+As a user, I want to update profile so that my details are

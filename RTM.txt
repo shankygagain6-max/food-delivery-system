@@ -1,0 +1,10 @@
+📊 RTM TABLE
+Requirement	User Story	Test Case	Status
+View Restaurants	US-1	TC-1	Pass
+Search Restaurant	US-2	TC-2	Pass
+View Menu	US-6	TC-3	Pass
+Add to Cart	US-9	TC-4	Pass
+Remove Item	US-10	TC-5	Pass
+Place Order	US-13	TC-6	Pending
+Payment	US-17	TC-7	Pending
+Track Order	US-14	TC-8	Pending

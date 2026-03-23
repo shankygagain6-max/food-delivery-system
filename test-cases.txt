@@ -1,0 +1,84 @@
+🟢 TC-1: View Restaurants
+
+User Story: View restaurants
+
+Steps:
+
+Open application
+Go to home page
+
+Expected Result:
+
+List of restaurants displayed
+🟢 TC-2: Search Restaurant
+
+Steps:
+
+Enter restaurant name in search bar
+Click search
+
+Expected Result:
+
+Matching restaurant shown
+🟢 TC-3: View Menu
+
+Steps:
+
+Select restaurant
+View menu
+
+Expected Result:
+
+Food items displayed with price
+🟢 TC-4: Add to Cart
+
+Steps:
+
+Select food item
+Click “Add to Cart”
+
+Expected Result:
+
+Item added to cart
+🟢 TC-5: Remove from Cart
+
+Steps:
+
+Open cart
+Click remove
+
+Expected Result:
+
+Item removed
+🟢 TC-6: Place Order
+
+Steps:
+
+Open cart
+Click checkout
+Confirm order
+
+Expected Result:
+
+Order placed successfully
+🟢 TC-7: Payment
+
+Steps:
+
+Select payment option
+Enter details
+Confirm
+
+Expected Result:
+
+Payment successful message
+🟢 TC-8: Order Tracking
+
+Steps:
+
+Go to orders
+Check status
+
+Expected Result:
+
+Order status displayed

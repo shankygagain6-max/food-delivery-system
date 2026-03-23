@@ -1,0 +1,13 @@
+      +---------------------------+
+      | Food Delivery System      |
+      +---------------------------+
+
+Customer → View Restaurants
+Customer → View Menu
+Customer → Add to Cart
+Customer → Place Order
+Customer → Make Payment
+Customer → Track Order
+
+Admin → Manage Restaurants
+Admin → Update Order Status
