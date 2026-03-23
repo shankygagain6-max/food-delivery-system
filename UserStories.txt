@@ -86,7 +86,10 @@ As a user, I want to register so that I can use the system.
 🟢 User Story 21:
 
 As a user, I want to login so that I can access my account.
-
 🟢 User Story 22:
+
+As a user, I want to login so that I can access my account.
+
+🟢 User Story 23:
 
 As a user, I want to update profile so that my details are
